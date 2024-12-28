@@ -45,7 +45,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/) or other open data
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Housing-price-prediction-using-Regularised-linear-regression.git
+git clone https://github.com/SupratimRayChaudhury/Housing-Price-Prediction-Using-Regularized-Linear-Regression.git
 ```
 
 2. Navigate to the repository:
